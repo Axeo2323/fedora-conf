@@ -1,0 +1,20 @@
+# GUI : Graphisme
+add:org.upscayl.Upscayl
+
+# GUI : Internet
+add:com.anydesk.Anydesk
+add:org.telegram.desktop
+add:io.freetubeapp.FreeTube
+
+# GUI : Utilitaires
+add:com.github.tchx84.Flatseal
+add:io.github.giantpinkrobots.flatsweep
+add:io.missioncenter.MissionCenter
+add:com.vscodium.codium
+add:io.github.flattool.Warehouse
+add:md.obsidian.Obsidian
+add:org.localsend.localsend_app
+
+# GUI : Virtualisation
+add:org.virt_manager.virt-viewer
+

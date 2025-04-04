@@ -1,0 +1,131 @@
+#add:packagename
+#del:packagename
+
+# Français sur système installé en anglais
+#add:aspell-fr
+#add:libreoffice-langpack-fr
+
+# Intégration APPS KDE
+add:plasma-breeze
+
+# GNOME Apps
+add:ptyxis
+add:seahorse
+add:gnome-tweaks
+add:file-roller
+add:dconf-editor
+del:abrt
+del:gnome-terminal
+add:evolution
+add:evolution-ews
+
+# CLI : Console
+add:screen
+add:vim-enhanced
+
+# CLI : Contrib Fedora
+add:git
+add:koji
+add:python3-fedora
+add:libtirpc-devel
+
+# CLI : devops
+add:podman
+add:podman-tui
+add:toolbox
+add:toolbox-extra-tools
+
+# CLI : Scripting
+add:ShellCheck
+add:powershell
+
+# CLI : Système
+add:htop
+add:nmon
+add:glances
+add:fastfetch
+add:inxi
+add:lm_sensors
+add:nvtop
+add:ncdu
+add:cronie
+add:mariadb
+add:nfs-utils
+del:gnome-system-monitor
+
+# CLI : Disques
+add:nwipe
+add:sg3_utils
+
+# CLI : Réseau
+add:netcat
+add:nmap
+add:iftop
+add:traceroute
+add:speedtest-cli
+add:fuse-sshfs
+add:telnet
+
+# CLI : backup
+add:borgbackup
+
+# CLI : Multimedia
+add:abcde
+add:sox
+add:vorbisgain
+add:mediainfo
+add:yt-dlp
+add:cmus
+
+# CLI : Divers
+add:android-tools
+
+# GUI : Multimedia
+add:pavucontrol
+add:strawberry
+add:smplayer
+add:soundconverter
+add:easytag
+del:peek
+add:mediainfo-gui
+add:HandBrake-gui
+add:vlc
+
+# GUI : Virtualisation
+add:VirtualBox
+add:virt-manager
+
+# GUI : Graphisme
+add:gimp
+#add:inkscape
+#add:blender
+
+# GUI : Reseau
+add:remmina
+add:gqrx
+
+# GUI : Internet
+add:epiphany
+add:evolution
+add:vivaldi-stable
+add:discord
+
+# GUI : Utilitaires
+add:cool-retro-term
+add:guake
+
+# GUI : Sécurité
+add:keepassxc
+
+# GUI : Jeux
+add:dosbox-staging
+add:steam
+add:goverlay
+
+# GUI : Admin Systeme
+add:wireshark
+
+# CLI : MacBook Hardware
+#add:facetimehd
+#add:broadcom-wl
+#add:mbpfan
