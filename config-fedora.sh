@@ -281,7 +281,7 @@ then
 	echo "02- - RPM TESTING updates availables : "
 	check_updates_testing_rpm
 
-	echo -e "\n \033[36mWARNING : Testing updates not avaibles with this script ! To upgrade a testing packages : " 
+	echo -e "\n \033[36mWARNING : Testing updates not availables with this script ! To upgrade a testing packages : " 
 	echo -e "         dnf upgrade --enablerepo=*updates-testing package1 package2 \033[0m \n"
 
 	exit;

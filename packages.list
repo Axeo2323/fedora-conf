@@ -33,7 +33,6 @@ add:libtirpc-devel
 add:podman
 add:podman-tui
 add:toolbox
-add:toolbox-extra-tools
 
 # CLI : Scripting
 add:ShellCheck

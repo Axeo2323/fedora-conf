@@ -1,11 +1,3 @@
-# Intégration Qt dans GTK
-# AdwaitaQt deprecated https://github.com/FedoraQt/adwaita-qt
-# QGnomePlatform deprecated https://github.com/FedoraQt/QGnomePlatform
-#add:adwaita-qt5
-#add:adwaita-qt6
-#add:qgnomeplatform-qt5
-#add:qgnomeplatform-qt6
-
 # Extensions
 add:gnome-extensions-app
 add:gnome-shell-extension-user-theme
@@ -14,4 +6,3 @@ add:gnome-shell-extension-appindicator
 add:gnome-shell-extension-gsconnect
 add:gnome-shell-extension-caffeine
 add:blur-my-shell
-add:tilingshell
