@@ -39,4 +39,5 @@ It is possible to get an overview of the available updates in the 'testing' repo
 
     ./config-fedora.sh testing
 
- 
+
+*Fork from https://github.com/aaaaadrien/fedora-config*
