@@ -87,7 +87,7 @@ add:soundconverter
 add:easytag
 del:peek
 add:mediainfo-gui
-add:HandBrake-gui
+del:HandBrake-gui
 add:vlc
 
 # GUI : Virtualisation
@@ -110,16 +110,29 @@ add:vivaldi-stable
 add:discord
 
 # GUI : Utilitaires
-add:cool-retro-term
+del:cool-retro-term
 add:guake
+add:lact
+add:coolercontrol
 
 # GUI : Sécurité
 add:keepassxc
 
 # GUI : Jeux
-add:dosbox-staging
+del:dosbox-staging
 add:steam
 add:goverlay
+add:lutris
+add:gamescope
+add:dkms
+add:acpid
+add:libglvnd-glx
+add:libglvnd-opengl
+add:libglvnd-devel
+add:pkgconfig
+add:xorg-x11-server-Xwayland
+add:libxcb
+add:egl-wayland
 
 # GUI : Admin Systeme
 add:wireshark

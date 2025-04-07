@@ -347,6 +347,22 @@ echo "04- Repository check"
 #	check_cmd
 #fi
 
+#COPR For FanControl
+if check_copr  'codifryed/CoolerControl'
+then
+	echo -n "- - - Install COPR CoolerControl"
+	add_copr "codifryed/CoolerControl"
+	check_cmd
+fi
+
+#COPR For GPU configuration
+if check_copr 'ilyaz/LACT'
+then
+	echo -n "- - - Install COPR LACT"
+	add_copr "ilyaz/LACT"
+	check_cmd
+fi
+
 ## RPMFUSION
 if ! check_pkg rpmfusion-free-release
 then
